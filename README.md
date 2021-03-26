@@ -4,8 +4,8 @@ ChatCord is a project made by Traversy Media and this is a fork of the original 
 
 ## Installation
 
-```
-git https://github.com/TheCoder76-Codes/chatcord-edit.git
+```shell
+git clone https://github.com/TheCoder76-Codes/chatcord-edit.git
 cd chatcord-master
 npm install
 npm start
